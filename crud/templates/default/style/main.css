@@ -1,0 +1,44 @@
+#cabecalho{
+    color: rgb(206, 148, 39);
+    font-family: Futura ZBlk BT;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+p{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+#footer{
+    position: absolute;
+    bottom:0;
+    
+}
+
+main h1{
+    font-family: Futura ZBlk BT;
+    text-align: center;
+}
+
+a{
+    float: right;
+    margin-right: 15px;
+    text-decoration: none;
+}
+
+#btnprof a{
+    text-decoration: none;
+    color: rgb(39, 37, 37);
+}
+
+#btnturm a{
+    text-decoration: none;
+    color: rgb(39, 37, 37);
+}
+
+#btnalun a{
+    text-decoration: none; 
+    color: rgb(39, 37, 37);
+}
